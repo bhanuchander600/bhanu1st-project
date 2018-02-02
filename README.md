@@ -1,2 +1,2 @@
 # bhanu1st-project
-this is for learnong purpose.
+this is for learning purpose.
